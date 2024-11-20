@@ -2,7 +2,7 @@
 𝐇𝖾ᥣᥣⱺ👋, 𝚰'ꭑ 𝐂ɦα𐓣ᑯ𝗋α𝗌𝖾𝗄ɦα𝗋 𝐆ⱺρυ</h1>
 
   ![Header Image](https://t4.ftcdn.net/jpg/07/44/95/11/360_F_744951102_bGTc6msVaH6JgWJQ81GFAREh9MtzmJnn.jpg)
-<h3 align="center">Welcome to my GitHub profile! As a passionate novice in software development, I have a solid grounding in C, Python, and Java. Crafting user-friendly interfaces using HTML and CSS is something I thoroughly enjoy. I'm excited to expand my knowledge and skills in the tech world.</h3>
+<h3 align="center">Welcome to my GitHub profile! As a passionate novice in electronics and embedded systems, I have a solid grounding in C, Python, and IoT frameworks. Designing innovative projects using technologies like ESP32 and Arduino is something I thoroughly enjoy. I'm excited to expand my knowledge and skills in the world of technology and electronics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrasekhar716&label=Profile%20views&color=0e75b6&style=flat" alt="chandrasekhar716" /> </p>
 
